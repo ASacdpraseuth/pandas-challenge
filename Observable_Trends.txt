@@ -1,0 +1,7 @@
+Observable Trends
+
+- A majority (84.03%) of players are Male
+- The largest age demographic is people between the ages of 20-24, making up 44.79% of all players
+	This is followed by those in the 15-19 age group (18.58%), and the 25-29 age group (13.37%)
+- This trend follows to the Total Revenue from each Age Group, and while there are some age groups that spend a little more per person it would be more likely
+	to generate more profits by getting more people from the 20-24 age group to play the game
